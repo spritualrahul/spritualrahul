@@ -1,5 +1,5 @@
 [![MasterHead](https://as1.ftcdn.net/v2/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg)](https://harshportfolioreact.netlify.app/)
-<h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
+<h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
 <img align="right" alt="coding" src = "https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" width=400>
 
