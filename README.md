@@ -7,7 +7,7 @@ Front-end Developer
 Hello there! 👋 I'm Rahul Kr. Mahato, a frontend developer passionate about creating beautiful and intuitive user experiences. and have been diving deep into the world of web development ever since. I specialize in building responsive and accessible web applications using HTML, CSS, and JavaScript. I also have experience with modern frontend frameworks such as React and Vue.js. I love to stay up-to-date with the latest technologies and trends in the industry, and I'm always eager to learn new things. When I'm not coding, you can find me playing video games, reading books, or exploring the great outdoors. I'm excited to connect with other developers and collaborate on interesting projects. Feel free to reach out to me if you have any questions or just want to say hello! 😄
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Portfolio](http://rahulkrmahatoportfolio.netlify.app/)
+* 🖥️  See my portfolio at [https://rahulkrmahatoportfolio.netlify.app/](http://rahulkrmahatoportfolio.netlify.app/)
 * ✉️  You can contact me at [rahulkrmahato027@gmail.com](mailto:rahulkrmahato027@gmail.com)
 * 🧠  I'm learning Next JS
 
